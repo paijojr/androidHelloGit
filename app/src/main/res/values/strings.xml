@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android Hello Git</string>
+    <string name="deskripsi">Mumet Belajar Git</string>
 </resources>
